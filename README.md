@@ -2,7 +2,9 @@
 <table>
     <tr>
         <td>
-            [![My Octocat](octocat.png)](https://myoctocat.com/build-your-octocat/) 
+            <a href="https://myoctocat.com/build-your-octocat/">
+                <img src="octocat.png" alt="My Octocat" width="100" />
+            </a>
         </td>
         <td>
 <pre>
