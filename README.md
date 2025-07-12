@@ -1,4 +1,4 @@
-<table border="0">
+<table>
     <tr>
         <td>
             <img src="octocat.png" alt="My Octocat" width="100" />
