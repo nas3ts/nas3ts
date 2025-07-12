@@ -1,4 +1,5 @@
-<table width="100%">
+<div align="center">
+<table>
     <tr>
         <td>
             <img src="octocat.png" alt="My Octocat" width="100" />
@@ -14,5 +15,6 @@
         </td>
     </tr>
 </table>
+</div>
 
 
