@@ -1,14 +1,22 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; font-family: monospace;">
-  <pre style="margin: 0; line-height: 1;">
+<table>
+    <tr>
+        <td>
+            <div align="center">
+                <pre>
    __ __    ____       _      __         __   ____
   / // /__ / / /__    | | /| / /__  ____/ /__/ / /
- / _  / -_) / / _ \   | |/ |/ / _ \/ __/ / _  /_/
-/_//_/\__/_/_/\___/   |__/|__/\___/_/ /_/\_,_(_)
-  </pre>
+ / _  / -_) / / _ \   | |/ |/ / _ \/ __/ / _  /_/ 
+/_//_/\__/_/_/\___/   |__/|__/\___/_/ /_/\_,_(_)  
+                                                  
+                </pre>
 
-  <img src="octocat.png" alt="Octocat Icon" width="100" />
-</div>
+            </div>
+        </td>
+        <td>
+            <img src="octocat.png" alt="Octocat Icon" width="100" />
 
-
+        </td>
+    </tr>
+</table>
 
 
