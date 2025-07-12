@@ -1,5 +1,8 @@
-<table>
+<table border="0">
     <tr>
+        <td>
+            <img src="octocat.png" alt="My Octocat" width="100" />
+        </td>
         <td>
 <pre>
    __ __    ____       _      __         __   ____
@@ -8,9 +11,6 @@
 /_//_/\__/_/_/\___/   |__/|__/\___/_/ /_/\_,_(_)  
                                                   
 </pre>
-        </td>
-        <td>
-            <img src="octocat.png" alt="Octocat Icon" width="100" />
         </td>
     </tr>
 </table>
