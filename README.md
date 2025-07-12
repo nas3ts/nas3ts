@@ -11,7 +11,6 @@
         </td>
         <td>
             <img src="octocat.png" alt="Octocat Icon" width="100" />
-
         </td>
     </tr>
 </table>
