@@ -7,7 +7,7 @@
                                                   
 </pre>
 
-[Octocat Icon](octocat.png)
+<img src="octocat.png" alt="Octocat Icon" width="100" />
 </div>
 
 
